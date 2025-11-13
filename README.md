@@ -1,2 +1,2 @@
 # daily-commiter
-commit daily
+my workflow will commit daily
