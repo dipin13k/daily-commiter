@@ -20,8 +20,8 @@ jobs:
 
     - name: Configure Git
       run: |
-        git config user.name "Anjan130k"
-        git config user.email "anjanmajhi456@gmail.com"
+        git config user.name "dipin13k"
+        git config user.email "dipinkhadka130@gmail.com"
 
     - name: Make daily commit
       run: |
